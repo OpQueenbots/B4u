@@ -86,7 +86,7 @@ async def gen_thumb(videoid):
             background = enhancer.enhance(0.6)
             image2 = background
                                                                                             
-            circle = Image.open("AnonX/assets/circle.png")
+            circle = Image.open("AnonX/assets/circle1.png")
 
             # changing circle color
             im = circle
@@ -197,7 +197,7 @@ async def gen_qthumb(videoid):
             background = enhancer.enhance(0.6)
             image2 = background
                                                                                             
-            circle = Image.open("AnonX/assets/circle.png")
+            circle = Image.open("AnonX/assets/circle1.png")
 
             # changing circle color
             im = circle
