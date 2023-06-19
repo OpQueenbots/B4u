@@ -22,6 +22,7 @@ themes = [
     "bik2",
     "bik3",
     "bik4",
+    "bik5",
 ]
 
 def changeImageSize(maxWidth, maxHeight, image):
